@@ -1,0 +1,658 @@
+Part number,Description,No Datasheet Available
+7400,quad 2-input NAND gate,Datasheets_7400/74AUP1G00.pdf
+7401,"quad 2-input NAND gate, open collector outputs",No Datasheet Available
+7402,quad 2-input NOR gate,Datasheets_7400/74AUP1G02.pdf
+7403,"quad 2-input NAND gate, open collector outputs",Datasheets_7400/74HC_HCT03.pdf
+7404,hex inverter,Datasheets_7400/74AUP1G04.pdf
+7405,"hex inverter, open collector outputs",Datasheets_7400/74HC05.pdf
+7406,"hex inverter buffer/driver, 30 V open collector outputs",Datasheets_7400/74AUP1G06.pdf
+7407,"hex buffer/driver, 30 V open collector outputs",Datasheets_7400/74AUP1G07.pdf
+7408,quad 2-input AND gate,Datasheets_7400/74AUP1G08.pdf
+7409,"quad 2-input AND gate, open collector outputs",Datasheets_7400/74AUP1G09.pdf
+7410,triple 3-input NAND gate,Datasheets_7400/74HC_HCT10.pdf
+7411,triple 3-input AND gate,Datasheets_7400/74HC_HCT11.pdf
+7412,"triple 3-input NAND gate, open collector outputs",No Datasheet Available
+7413,dual Schmitt trigger 4-input NAND gate,No Datasheet Available
+7414,hex Schmitt trigger inverter,Datasheets_7400/74AUP1G14.pdf
+7415,"triple 3-input AND gate, open collector outputs",No Datasheet Available
+7416,"hex inverter buffer/driver, 15 V open collector outputs",No Datasheet Available
+7417,"hex buffer/driver, 15 V open collector outputs",Datasheets_7400/74AUP1G17.pdf
+7418,"dual 4-input NAND gate, Schmitt trigger inputs",No Datasheet Available
+7419,hex Schmitt trigger inverter,No Datasheet Available
+7420,dual 4-input NAND gate,Datasheets_7400/74HC_HCT20.pdf
+7421,dual 4-input AND gate,Datasheets_7400/74HC21.pdf
+7422,"dual 4-input NAND gate, open collector outputs",No Datasheet Available
+7423,"expandable dual 4-input NOR gate, strobe",No Datasheet Available
+7424,"quad 2-input NAND gate gates, Schmitt trigger line-receiver inputs.",No Datasheet Available
+7425,dual 4-input NOR gate,No Datasheet Available
+7426,"quad 2-input NAND gate, 15 V open collector outputs",No Datasheet Available
+7427,triple 3-input NOR gate,Datasheets_7400/74HC_HCT27.pdf
+7428,quad 2-input NOR buffer,No Datasheet Available
+7430,8-input NAND gate,Datasheets_7400/74HC_HCT30.pdf
+7431,hex delay elements,No Datasheet Available
+7432,quad 2-input OR gate,Datasheets_7400/74AUP1G32.pdf
+7433,"quad 2-input NOR buffer, open collector outputs",No Datasheet Available
+7434,hex non-inverters,Datasheets_7400/74AUP1G34.pdf
+7435,"hex non-inverters, open-collector outputs",No Datasheet Available
+7436,quad 2-input NOR gate (different pinout than 7402),No Datasheet Available
+7437,quad 2-input NAND buffer,No Datasheet Available
+7438,"quad 2-input NAND buffer, open collector outputs",No Datasheet Available
+7439,"quad 2-input NAND buffer, open collector outputs, input and output terminals flipped, otherwise functionally identical to 7438",No Datasheet Available
+7440,dual 4-input NAND buffer,No Datasheet Available
+7441,BCD to decimal decoder/Nixie tube driver,No Datasheet Available
+7442,BCD to decimal decoder,Datasheets_7400/74HC42.pdf
+7443,excess-3 to decimal decoder,No Datasheet Available
+7444,excess-3-Gray code to decimal decoder,No Datasheet Available
+7445,BCD to decimal decoder/driver,No Datasheet Available
+7446,"BCD to 7-segment display decoder/driver, 30 V open collector outputs",No Datasheet Available
+7447,"BCD to 7-segment decoder/driver, 15 V open collector outputs",No Datasheet Available
+7448,"BCD to 7-segment decoder/driver, internal pullups",No Datasheet Available
+7449,"BCD to 7-segment decoder/driver, open collector outputs",No Datasheet Available
+7450,dual 2-wide 2-input AND-OR-invert gate (one gate expandable),No Datasheet Available
+7451,dual 2-wide 2-input AND-OR-invert gate,No Datasheet Available
+74LS51,2-wide 2-input AND-OR-invert gate and 2-wide 3-input AND-OR-invert gate,No Datasheet Available
+7452,expandable 4-wide 2-input AND-OR gate,No Datasheet Available
+7453,expandable 4-wide 2-input AND-OR-invert gate,No Datasheet Available
+7454,3-2-2-3-input AND-OR-invert gate,No Datasheet Available
+7455,2-wide 4-input AND-OR-invert gate (74H version is expandable),No Datasheet Available
+7456,50:1 frequency divider,No Datasheet Available
+7457,60:1 frequency divider,Datasheets_7400/74AUP1G57.pdf
+7458,2-input & 3-input AND-OR gate,Datasheets_7400/74AUP1G58.pdf
+7459,2-input & 3-input AND-OR-invert gate,No Datasheet Available
+7460,dual 4-input expander,No Datasheet Available
+7461,triple 3-input expander,No Datasheet Available
+7462,3-2-2-3-input AND-OR expander,No Datasheet Available
+7463,hex current sensing interface gates,No Datasheet Available
+7464,4-2-3-2-input AND-OR-invert gate,No Datasheet Available
+7465,"4-2-3-2 input AND-OR-invert gate, open collector output",No Datasheet Available
+7468,dual 4-bit decade counters,No Datasheet Available
+7469,dual 4-bit binary counters,No Datasheet Available
+7470,"AND-gated positive edge triggered J-K flip-flop, asynchronous preset and clear",No Datasheet Available
+74H71,"AND-or-gated J-K master-slave flip-flop, preset",No Datasheet Available
+74L71,"AND-gated R-S master-slave flip-flop, preset and clear",No Datasheet Available
+7472,"AND gated J-K master-slave flip-flop, asynchronous preset and clear",No Datasheet Available
+7473,"dual J-K flip-flop, asynchronous clear",Datasheets_7400/cd54hc73.pdf
+7474,"dual D positive edge triggered flip-flop, asynchronous preset and clear",Datasheets_7400/74HC_HCT74.pdf
+7475,4-bit bistable latch,Datasheets_7400/cd74hc75.pdf
+7476,"dual J-K flip-flop, asynchronous preset and clear",No Datasheet Available
+7477,4-bit bistable latch,No Datasheet Available
+74H78,"dual positive pulse triggered J-K flip-flop, preset, common clock and common clear",No Datasheet Available
+74L78,"dual positive pulse triggered J-K flip-flop, preset, common clock and common clear",No Datasheet Available
+74LS78,"dual negative edge triggered J-K flip-flop, preset, common clock and common clear",No Datasheet Available
+7479,dual D flip-flop,Datasheets_7400/74AUP1G79.pdf
+7480,gated full adder,Datasheets_7400/74AUP1G80.pdf
+7481,16-bit RAM,No Datasheet Available
+7482,2-bit binary full adder,No Datasheet Available
+7483,4-bit binary half adder (no carry in function),No Datasheet Available
+7484,16-bit RAM,No Datasheet Available
+7485,4-bit magnitude comparator,No Datasheet Available
+7486,quad 2-input XOR gate,Datasheets_7400/74AUP1G86.pdf
+7487,4-bit true/complement/zero/one element,No Datasheet Available
+7488,256-bit ROM,No Datasheet Available
+7489,64-bit RAM,No Datasheet Available
+7490,decade counter (separate divide-by-2 and divide-by-5 sections),No Datasheet Available
+7491,"8-bit shift register, serial In, serial out, gated input",No Datasheet Available
+7492,divide-by-12 counter (separate divide-by-2 and divide-by-6 sections),No Datasheet Available
+7493,4-bit binary counter (separate divide-by-2 and divide-by-8 sections),No Datasheet Available
+7494,"4-bit shift register, dual asynchronous presets",No Datasheet Available
+7495,"4-bit shift register, parallel in, parallel out, serial input",No Datasheet Available
+7496,"5-bit parallel-in/parallel-out shift register, asynchronous preset",No Datasheet Available
+7497,synchronous 6-bit binary rate multiplier,Datasheets_7400/74AUP1G97.pdf
+7498,4-bit data selector/storage register,Datasheets_7400/74AUP1G98.pdf
+7499,4-bit bidirectional universal shift register,Datasheets_7400/74LVC1G99.pdf
+74100,dual 4-bit bistable latch,No Datasheet Available
+74101,"AND-OR-gated J-K negative-edge-triggered flip-flop, preset",No Datasheet Available
+74102,"AND-gated J-K negative-edge-triggered flip-flop, preset and clear",No Datasheet Available
+74103,"dual J-K negative-edge-triggered flip-flop, clear",No Datasheet Available
+74104,J-K master-slave flip-flop,No Datasheet Available
+74105,J-K master-slave flip-flop,No Datasheet Available
+74106,"dual J-K negative-edge-triggered flip-flop, preset and clear",No Datasheet Available
+74107,"dual J-K flip-flop, clear",Datasheets_7400/74HC_HCT107.pdf
+74107a,"dual J-K negative-edge-triggered flip-flop, clear",No Datasheet Available
+74108,"dual J-K negative-edge-triggered flip-flop, preset, common clear and common clock",No Datasheet Available
+74109,"dual J-Not-K positive-edge-triggered flip-flop, clear and preset",Datasheets_7400/74HC_HCT109.pdf
+74110,"AND-gated J-K master-slave flip-flop, data lockout",No Datasheet Available
+74111,"dual J-K master-slave flip-flop, data lockout",No Datasheet Available
+74112,"dual J-K negative-edge-triggered flip-flop, clear and preset",Datasheets_7400/74HC_HCT112.pdf
+74113,"dual J-K negative-edge-triggered flip-flop, preset",No Datasheet Available
+74114,"dual J-K negative-edge-triggered flip-flop, preset, common clock and clear",No Datasheet Available
+74116,"dual 4-bit latch, clear",No Datasheet Available
+74118,hex set/reset latch,No Datasheet Available
+74119,hex set/reset latch,No Datasheet Available
+74120,dual pulse synchronizer/drivers,No Datasheet Available
+74121,monostable multivibrator,No Datasheet Available
+74122,"retriggerable monostable multivibrator, clear",No Datasheet Available
+74123,"dual retriggerable monostable multivibrator, clear",Datasheets_7400/74HC_HCT123.pdf
+74124,dual voltage-controlled oscillator,No Datasheet Available
+74125,"quad bus buffer, three-state outputs, negative enable",Datasheets_7400/74AUP1G125.pdf
+74126,"quad bus buffer, three-state outputs, positive enable",Datasheets_7400/74AUP1G126.pdf
+74128,quad 2-input NOR line driver,No Datasheet Available
+74130,retriggerable monostable multivibrator,No Datasheet Available
+74131,"quad 2-input AND gate buffer, 15 V open collector outputs[citation needed]",No Datasheet Available
+74132,quad 2-input NAND Schmitt trigger,Datasheets_7400/74HC_HCT132.pdf
+74133,13-input NAND gate,No Datasheet Available
+74134,"12-input NAND gate, three-state output",No Datasheet Available
+74135,quad exclusive-or/NOR gate,No Datasheet Available
+74136,"quad 2-input XOR gate, open collector outputs",No Datasheet Available
+74137,"3 to 8-line decoder/demultiplexer, address latch, inverting outputs",Datasheets_7400/74HC137.pdf
+74138,"3 to 8-line decoder/demultiplexer, inverting outputs",Datasheets_7400/74HC_HCT138.pdf
+74139,"dual 2 to 4-line decoder/demultiplexer, inverting outputs",Datasheets_7400/74HC_HCT139.pdf
+74140,dual 4-input NAND line driver,No Datasheet Available
+74141,BCD to decimal decoder/driver for cold-cathode indicator/Nixie tube,No Datasheet Available
+74142,decade counter/latch/decoder/driver for Nixie tubes,No Datasheet Available
+74143,"decade counter/latch/decoder/7-segment driver, 15 mA constant current",No Datasheet Available
+74144,"decade counter/latch/decoder/7-segment driver, 15 V open collector outputs",No Datasheet Available
+74145,BCD to decimal decoder/driver,No Datasheet Available
+74147,10-line to 4-line priority encoder,No Datasheet Available
+74148,8-line to 3-line priority encoder,No Datasheet Available
+74149,8-line to 8-line priority encoder,No Datasheet Available
+74150,16-line to 1-line data selector/multiplexer,No Datasheet Available
+74151,8-line to 1-line data selector/multiplexer,No Datasheet Available
+74152,8-line to 1-line data selector/multiplexer,No Datasheet Available
+74153,"dual 4-line to 1-line data selector/multiplexer, non-inverting outputs",Datasheets_7400/74HC_HCT153.pdf
+74154,"4-line to 16-line decoder/demultiplexer, inverting outputs",Datasheets_7400/74HC_HCT154.pdf
+74155,"dual 2-line to 4-line decoder/demultiplexer, inverting outputs",No Datasheet Available
+74156,"dual 2-line to 4-line decoder/demultiplexer, open collector inverting outputs",No Datasheet Available
+74157,"quad 2-line to 1-line data selector/multiplexer, non-inverting outputs",No Datasheet Available
+74158,"quad 2-line to 1-line data selector/multiplexer, inverting outputs",Datasheets_7400/74HC158.pdf
+74159,"4-line to 16-line decoder/demultiplexer, open collector outputs",No Datasheet Available
+74160,"synchronous presettable 4-bit decade counter, asynchronous clear",Datasheets_7400/74HC160.pdf
+74161,"synchronous presettable 4-bit binary counter, asynchronous clear",Datasheets_7400/74HC161.pdf
+74162,"synchronous presettable 4-bit decade counter, synchronous clear",No Datasheet Available
+74163,"synchronous presettable 4-bit binary counter, synchronous clear",Datasheets_7400/74HC_HCT163.pdf
+74164,"8-bit parallel-out serial shift register, asynchronous clear",Datasheets_7400/74HC_HCT164.pdf
+74165,"8-bit serial shift register, parallel load, complementary outputs",Datasheets_7400/74HC_HCT165.pdf
+74166,parallel-load 8-bit shift register,Datasheets_7400/74HC_HCT166.pdf
+74167,synchronous decade rate multiplier,No Datasheet Available
+74168,synchronous presettable 4-bit up/down decade counter,No Datasheet Available
+74169,synchronous presettable 4-bit up/down binary counter,No Datasheet Available
+74170,"4 by 4 register file, open collector outputs",No Datasheet Available
+74171,"quad D-type flip-flops, clear",No Datasheet Available
+74172,"16-bit multiple port register file, three-state outputs",No Datasheet Available
+74173,"quad D flip-flop, three-state outputs and asynchronous clear",Datasheets_7400/74HC_HCT173.pdf
+74174,"hex D flip-flop, common asynchronous clear",Datasheets_7400/74HC_HCT174.pdf
+74175,"quad D edge-triggered flip-flop, complementary outputs and asynchronous clear",Datasheets_7400/74HC_HCT175.pdf
+74176,presettable decade (bi-quinary) counter/latch,No Datasheet Available
+74177,presettable binary counter/latch,No Datasheet Available
+74178,4-bit parallel-access shift register,No Datasheet Available
+74179,"4-bit parallel-access shift register, asynchronous clear and complementary Qd outputs",No Datasheet Available
+74180,9-bit odd/even parity bit generator and checker,No Datasheet Available
+74181,4-bit arithmetic logic unit and function generator,No Datasheet Available
+74182,lookahead carry generator,No Datasheet Available
+74183,dual carry-save full adder,No Datasheet Available
+74184,BCD to binary converter,No Datasheet Available
+74185,6-bit binary to BCD converter,No Datasheet Available
+74186,"512-bit (64x8) ROM, open collector outputs",No Datasheet Available
+74187,"1024-bit (256x4) ROM, open collector outputs",No Datasheet Available
+74188,"256-bit (32x8) PROM, open collector outputs",No Datasheet Available
+74189,"64-bit (16x4) RAM, inverting three-state outputs",No Datasheet Available
+74190,synchronous presettable up/down decade counter,No Datasheet Available
+74191,synchronous presettable up/down binary counter,Datasheets_7400/74HC191.pdf
+74192,"synchronous presettable up/down decade counter, clear",No Datasheet Available
+74193,"synchronous presettable up/down 4-bit binary counter, clear",Datasheets_7400/74HC_HCT193.pdf
+74194,4-bit bidirectional universal shift register,Datasheets_7400/74HC194.pdf
+74195,4-bit parallel-access shift register,Datasheets_7400/cd74hc195.pdf
+74196,presettable decade counter/latch,No Datasheet Available
+74197,presettable binary counter/latch,No Datasheet Available
+74198,8-bit bidirectional universal shift register,No Datasheet Available
+74199,"8-bit universal shift register, J-Not-K serial inputs",No Datasheet Available
+74200,"256-bit RAM, three-state outputs",No Datasheet Available
+74201,"256-bit (256x1) RAM, three-state outputs",No Datasheet Available
+74206,"256-bit RAM, open collector outputs",No Datasheet Available
+74209,"1024-bit (1024x1) RAM, three-state output",No Datasheet Available
+74210,octal buffer,No Datasheet Available
+74219,"64-bit (16x4) RAM, non-inverting three-state outputs",No Datasheet Available
+74221,"dual monostable multivibrator, Schmitt trigger input",Datasheets_7400/sn54221.pdf
+74222,"16 by 4 synchronous FIFO memory, three-state outputs",No Datasheet Available
+74224,"16 by 4 synchronous FIFO memory, three-state outputs",No Datasheet Available
+74225,asynchronous 16x5 FIFO memory,No Datasheet Available
+74226,"4-bit parallel latched bus transceiver, three-state outputs",No Datasheet Available
+74227,64-bit FIFO memory 16x4,No Datasheet Available
+74228,"64-bit FIFO memory 16x4, open-collector outputs",No Datasheet Available
+74229,"80-bit FIFO memory 16x5, three-state outputs",No Datasheet Available
+74230,"octal buffer/driver, three-state outputs, true and complementary inputs",No Datasheet Available
+74231,"octal buffer and line driver, three-state outputs, G and /G complementary inputs",No Datasheet Available
+74232,quad NOR Schmitt trigger,No Datasheet Available
+74233,"80-bit FIFO memory 16x5, three-state outputs",No Datasheet Available
+74237,"3-of-8 decoder/demultiplexer, address latch, active high outputs",Datasheets_7400/74HC237.pdf
+74238,"3-of-8 decoder/demultiplexer, active high outputs",Datasheets_7400/74HC_HCT238.pdf
+74239,"dual 2-of-4 decoder/demultiplexer, active high outputs",No Datasheet Available
+74240,"octal buffer, inverting three-state outputs",Datasheets_7400/74AUP2G240.pdf
+74241,"octal buffer, non-inverting three-state outputs",Datasheets_7400/74AUP2G241.pdf
+74242,"quad bus transceiver, inverting three-state outputs",No Datasheet Available
+74243,"quad bus transceiver, non-inverting three-state outputs",Datasheets_7400/cd74hc243.pdf
+74244,"octal buffer, non-inverting three-state outputs",Datasheets_7400/74HC_HCT244.pdf
+74245,"octal bus transceiver, non-inverting three-state outputs",Datasheets_7400/74HC_HCT245.pdf
+74246,"BCD to 7-segment decoder/driver, 30 V open collector outputs",No Datasheet Available
+74247,"BCD to 7-segment decoder/driver, 15 V open collector outputs",No Datasheet Available
+74248,"BCD to 7-segment decoder/driver, Internal Pull-up outputs",No Datasheet Available
+74249,"BCD to 7-segment decoder/driver, open collector outputs",No Datasheet Available
+74250,1 of 16 data selectors/multiplexers,No Datasheet Available
+74251,"8-line to 1-line data selector/multiplexer, complementary three-state outputs",Datasheets_7400/74HC_HCT251.pdf
+74253,"dual 4-line to 1-line data selector/multiplexer, three-state outputs",Datasheets_7400/74HC_HCT253.pdf
+74255,dual 4-bit addressable latch,No Datasheet Available
+74256,dual 4-bit addressable latch,No Datasheet Available
+74257,"quad 2-line to 1-line data selector/multiplexer, non-inverting three-state outputs",Datasheets_7400/74HC_HCT257.pdf
+74258,"quad 2-line to 1-line data selector/multiplexer, inverting three-state outputs",Datasheets_7400/sn74hc258.pdf
+74259,8-bit addressable latch,Datasheets_7400/74HC_HCT259.pdf
+74260,dual 5-input NOR gate,No Datasheet Available
+74261,2-bit by 4-bit parallel binary multiplier,No Datasheet Available
+74264,look ahead carry generator,No Datasheet Available
+74265,quad complementary output elements,No Datasheet Available
+74266,"quad 2-input XNOR gate, open collector outputs",No Datasheet Available
+74268,"hex D-type latches three-state outputs, common output control, common enable",No Datasheet Available
+74269,8-bit bidirectional binary counter,No Datasheet Available
+74270,"2048-bit (512x4) ROM, open collector outputs",No Datasheet Available
+74271,"2048-bit (256x8) ROM, open collector outputs",No Datasheet Available
+74273,"8-bit register, asynchronous clear",Datasheets_7400/74HC_HCT273.pdf
+74274,4-bit by 4-bit binary multiplier,No Datasheet Available
+74275,7-bit slice Wallace tree,No Datasheet Available
+74276,"quad J-Not-K edge-triggered flip-flops, separate clocks, common preset and clear",No Datasheet Available
+74278,"4-bit cascadeable priority registers, latched data inputs",No Datasheet Available
+74279,quad set-reset latch,No Datasheet Available
+74280,9-bit odd/even parity bit generator/checker,Datasheets_7400/74HC_HCT280.pdf
+74281,4-bit parallel binary accumulator,No Datasheet Available
+74282,"look-ahead carry generator, selectable carry inputs",No Datasheet Available
+74283,4-bit binary full adder (has carry in function),No Datasheet Available
+74284,4-bit by 4-bit parallel binary multiplier (low order 4 bits of product),No Datasheet Available
+74285,4-bit by 4-bit parallel binary multiplier (high order 4 bits of product),No Datasheet Available
+74286,"9-bit parity generator/checker, bus driver parity I/O port",No Datasheet Available
+74287,"1024-bit (256x4) PROM, three-state outputs",No Datasheet Available
+74288,"256-bit (32x8) PROM, three-state outputs",No Datasheet Available
+74289,"64-bit (16x4) RAM, open collector outputs",No Datasheet Available
+74290,decade counter (separate divide-by-2 and divide-by-5 sections),No Datasheet Available
+74291,"4-bit universal shift register, binary up/down counter, synchronous",No Datasheet Available
+74292,programmable frequency divider/digital timer,No Datasheet Available
+74293,4-bit binary counter (separate divide-by-2 and divide-by-8 sections),No Datasheet Available
+74294,programmable frequency divider/digital timer,No Datasheet Available
+74295,"4-bit bidirectional register, three-state outputs",No Datasheet Available
+74297,digital phase-locked loop filter,Datasheets_7400/cd74hct297.pdf
+74298,"quad 2-input multiplexer, storage",No Datasheet Available
+74299,"8-bit bidirectional universal shift/storage register, three-state outputs",Datasheets_7400/74HC299.pdf
+74301,"256-bit (256x1) RAM, open collector output",No Datasheet Available
+74309,"1024-bit (1024x1) RAM, open collector output",No Datasheet Available
+74310,"octal buffer, Schmitt trigger inputs",No Datasheet Available
+74314,1024-bit RAM,No Datasheet Available
+74319,64-bit RAM (16x4) open collector outputs,No Datasheet Available
+74320,crystal-controlled oscillator,No Datasheet Available
+74321,"crystal-controlled oscillators, F/2 and F/4 count-down outputs",No Datasheet Available
+74322,"8-bit shift register, sign extend, three-state outputs",No Datasheet Available
+74323,"8-bit bidirectional universal shift/storage register, three-state outputs",No Datasheet Available
+74324,voltage-controlled oscillator (or crystal controlled),No Datasheet Available
+74340,"octal buffer, Schmitt trigger inputs and three-state inverting outputs",No Datasheet Available
+74341,"octal buffer, Schmitt trigger inputs and three-state non-inverting outputs",No Datasheet Available
+74344,"octal buffer, Schmitt trigger inputs and three-state non-inverting outputs",No Datasheet Available
+74347,"BCD-to-7 segment decoders/drivers open collector outputs, low voltage version of 7447",No Datasheet Available
+74348,"8 to 3-line priority encoder, three-state outputs",No Datasheet Available
+74350,"4-bit shifter, three-state outputs",No Datasheet Available
+74351,"dual 8-line to 1-line data selectors/multiplexers, three-state outputs and 4 common data inputs",No Datasheet Available
+74352,"dual 4-line to 1-line data selectors/multiplexers, inverting outputs",No Datasheet Available
+74353,"dual 4-line to 1-line data selectors/multiplexers, inverting three-state outputs",No Datasheet Available
+74354,"8 to 1-line data selector/multiplexer, transparent latch, three-state outputs",No Datasheet Available
+74355,"8-line to 1-line data selector/multiplexer, transparent registers, open-collector outputs",No Datasheet Available
+74356,"8 to 1-line data selector/multiplexer, edge-triggered register, three-state outputs",No Datasheet Available
+74357,"8-line to 1-line data selectors/multiplexers/edge-triggered registers, open-collector outputs",No Datasheet Available
+74361,bubble memory function timing generator,No Datasheet Available
+74362,four-phase clock generator/driver,No Datasheet Available
+74363,octal three-state D-latches,No Datasheet Available
+74364,"8-bit D-type edge-triggered register, three-state outputs",No Datasheet Available
+74365,"hex buffer, non-inverting three-state outputs",Datasheets_7400/74HC_HCT365.pdf
+74366,"hex buffer, inverting three-state outputs",Datasheets_7400/74HC_HCT366.pdf
+74367,"hex buffer, non-inverting three-state outputs",Datasheets_7400/74HC_HCT367.pdf
+74368,"hex buffer, inverting three-state outputs",Datasheets_7400/74HC_HCT368.pdf
+74370,"2048-bit (512x4) ROM, three-state outputs",No Datasheet Available
+74371,"2048-bit (256x8) ROM, three-state outputs",No Datasheet Available
+74373,"octal transparent latch, three-state outputs",Datasheets_7400/74AUP1G373.pdf
+74374,"octal register, three-state outputs",Datasheets_7400/74AUP1G374.pdf
+74375,quad bistable latch,No Datasheet Available
+74376,"quad J-Not-K flip-flop, common clock and common clear",No Datasheet Available
+74377,"8-bit register, clock enable",Datasheets_7400/74HC_HCT377.pdf
+74378,"6-bit register, clock enable",No Datasheet Available
+74379,"4-bit register, clock enable and complementary outputs",No Datasheet Available
+74380,8-bit multifunction register,No Datasheet Available
+74381,"4-bit arithmetic logic unit/function generator, generate and propagate outputs",No Datasheet Available
+74382,"4-bit arithmetic logic unit/function generator, ripple carry and overflow outputs",No Datasheet Available
+74384,8-bit by 1-bit two's complement multipliers,No Datasheet Available
+74385,quad serial adder/subtractor,No Datasheet Available
+74386,quad 2-input XOR gate,Datasheets_7400/74AUP1G386.pdf
+74387,"1024-bit (256x4) PROM, open collector outputs",No Datasheet Available
+74388,"4-bit register, standard and three-state outputs",No Datasheet Available
+74390,dual 4-bit decade counter,Datasheets_7400/74HC_HCT390.pdf
+74393,dual 4-bit binary counter,Datasheets_7400/74HC_HCT393.pdf
+74395,"4-bit universal shift register, three-state outputs",No Datasheet Available
+74396,"octal storage registers, parallel access",No Datasheet Available
+74398,"quad 2-input multiplexers, storage and complementary outputs",No Datasheet Available
+74399,"quad 2-input multiplexer, storage",No Datasheet Available
+74405,"1 to 8 decoder, equivalent to Intel 8205, only found as UCY74S405 so might be non-TI number",No Datasheet Available
+74408,8-bit parity tree,No Datasheet Available
+74412,"multi-mode buffered 8-bit latches, three-state outputs and clear",No Datasheet Available
+74422,"re-triggerable mono-stable multivibrators, two inputs",No Datasheet Available
+74423,dual retriggerable monostable multivibrator,Datasheets_7400/74HC423.pdf
+74424,two-phase clock generator/driver,No Datasheet Available
+74425,"quad bus buffers, three-state outputs and active low enables",No Datasheet Available
+74426,"quad bus buffers, three-state outputs and active high enables",No Datasheet Available
+74428,system controller for 8080a,No Datasheet Available
+74436,"line driver/memory driver circuits - mos memory interface, damping output resistor",No Datasheet Available
+74437,line driver/memory driver circuits - mos memory interface,No Datasheet Available
+74438,system controller for 8080a,No Datasheet Available
+74440,"quad tridirectional bus transceiver, non-inverting open collector outputs",No Datasheet Available
+74441,"quad tridirectional bus transceiver, inverting open collector outputs",No Datasheet Available
+74442,"quad tridirectional bus transceiver, non-inverting three-state outputs",No Datasheet Available
+74443,"quad tridirectional bus transceiver, inverting three-state outputs",No Datasheet Available
+74444,"quad tridirectional bus transceiver, invertin and non-inverting three-state outputs",No Datasheet Available
+74445,BCD-to-decimal decoders/drivers,No Datasheet Available
+74446,"quad bus transceivers, direction controls",No Datasheet Available
+74447,"BCD-to-7-segment decoders/drivers, low voltage version of 74247",No Datasheet Available
+74448,"quad tridirectional bus transceiver, inverting and non-inverting open collector outputs",No Datasheet Available
+74449,"quad bus transceivers, direction controls, true outputs",No Datasheet Available
+74450,"16-to-1 multiplexer, complementary outputs",No Datasheet Available
+74451,dual 8-to-1 multiplexer,No Datasheet Available
+74452,"dual decade counter, synchronous",No Datasheet Available
+74453,"dual binary counter, synchronous",No Datasheet Available
+74453,quad 4-to-1 multiplexer,No Datasheet Available
+74454,"dual decade up/down counter, synchronous, preset input",No Datasheet Available
+74455,"dual binary up/down counter, synchronous, preset input",No Datasheet Available
+74456,NBCD (Natural binary coded decimal) adder,No Datasheet Available
+74460,bus transfer switch,No Datasheet Available
+74461,"8-bit presettable binary counter, three-state outputs",No Datasheet Available
+74462,fiber-optic link transmitter,No Datasheet Available
+74463,fiber-optic link receiver,No Datasheet Available
+74465,"octal buffer, three-state true outputs",No Datasheet Available
+74466,"octal buffers, three-state inverting puts",No Datasheet Available
+74467,"octal buffers, three-state true outputs",No Datasheet Available
+74468,"octal buffers, three-state inverting outputs",No Datasheet Available
+74469,"8-bit synchronous up/down counter, parallel load and hold capability",No Datasheet Available
+74470,"2048-bit (256x8) PROM, open collector outputs",No Datasheet Available
+74471,"2048-bit (256x8) PROM, three-state outputs",No Datasheet Available
+74472,"PROM, open collector outputs",No Datasheet Available
+74473,"PROM, three-state outputs",No Datasheet Available
+74474,"PROM, open collector outputs",No Datasheet Available
+74475,"PROM, three-state outputs",No Datasheet Available
+74481,4-bit slice cascadable processor elements,No Datasheet Available
+74482,4-bit slice expandable control elements,No Datasheet Available
+74484,BCD-to-binary converter,No Datasheet Available
+74485,binary-to-BCD converter,No Datasheet Available
+74490,dual decade counter,No Datasheet Available
+74491,"10-bit binary up/down counter, limited preset and three-state outputs",No Datasheet Available
+74498,"8-bit bidirectional shift register, parallel inputs and three-state outputs",No Datasheet Available
+74508,8-bit multiplier/divider,No Datasheet Available
+74518,"8-bit comparator, open collector output, input pull-up resistor",No Datasheet Available
+74519,"8-bit comparator, open collector output",No Datasheet Available
+74520,"8-bit comparator, inverting totem-pole output, input pull-up resistor",No Datasheet Available
+74521,"8-bit comparator, inverting totem-pole output",No Datasheet Available
+74522,"8-bit comparator, inverting open-collector output, input pull-up resistor",No Datasheet Available
+74524,8-bit registered comparator,No Datasheet Available
+74526,"fuse programmable identity comparator, 16-bit",No Datasheet Available
+74527,"fuse programmable identity comparator, 8-bit + 4-bit conventional Identity comparator",No Datasheet Available
+74528,"fuse programmable Identity comparator, 12-bit",No Datasheet Available
+74531,"octal transparent latch, 32 mA three-state outputs",No Datasheet Available
+74532,"octal register, 32 mA three-state outputs",No Datasheet Available
+74533,"octal transparent latch, inverting three-state outputs",No Datasheet Available
+74534,"octal register, inverting three-state outputs",No Datasheet Available
+74535,"octal transparent latch, inverting three-state outputs",No Datasheet Available
+74536,"octal register, inverting 32 mA three-state outputs",No Datasheet Available
+74537,"BCD to decimal decoder, three-state outputs",No Datasheet Available
+74538,"1 of 8 decoder, three-state outputs",No Datasheet Available
+74539,"dual 1 of 4 decoder, three-state outputs",No Datasheet Available
+74540,"inverting octal buffer, three-state outputs",Datasheets_7400/74HC_HCT540.pdf
+74541,"non-inverting octal buffer, three-state outputs",Datasheets_7400/74HC_HCT541.pdf
+74543,"octal registered transceiver, three-state outputs",No Datasheet Available
+74544,"non-inverting octal registered transceiver, three-state outputs",No Datasheet Available
+74558,"8-bit by 8-bit multiplier, three-state outputs",No Datasheet Available
+74560,"4-bit decade counter, three-state outputs",No Datasheet Available
+74561,"4-bit binary counter, three-state outputs",No Datasheet Available
+74563,"8-bit D-type transparent latch, inverting three-state outputs",No Datasheet Available
+74564,"8-bit D-type edge-triggered register, inverting three-state outputs",Datasheets_7400/cd74hc534.pdf
+74568,"decade up/down counter, three-state outputs",No Datasheet Available
+74569,"binary up/down counter, three-state outputs",No Datasheet Available
+74573,"octal D-type transparent latch, three-state outputs",Datasheets_7400/74HC_HCT573.pdf
+74574,"octal D-type edge-triggered flip-flop, three-state outputs",Datasheets_7400/74HC_HCT574.pdf
+74575,"octal D-type flip-flop, synchronous clear, three-state outputs",No Datasheet Available
+74576,"octal D-type flip-flop, inverting three-state outputs",No Datasheet Available
+74577,"octal D-type flip-flop, synchronous clear, inverting three-state outputs",No Datasheet Available
+74580,"octal transceiver/latch, inverting three-state outputs",No Datasheet Available
+74589,"8-bit shift register, input latch, three-state outputs",No Datasheet Available
+74590,"8-bit binary counter, output registers, three-state outputs",Datasheets_7400/74HC590.pdf
+74591,"8-bit binary counters, output registers, open-collector outputs",No Datasheet Available
+74592,"8-bit binary counter, input registers",No Datasheet Available
+74593,"8-bit binary counter, input registers and three-state outputs",No Datasheet Available
+74594,"8-bit shift registers, output latches",Datasheets_7400/74HC_HCT594.pdf
+74595,"8-bit shift registers, output latches, three-state parallel outputs",Datasheets_7400/74HC_HCT595.pdf
+74596,"8-bit shift registers, output latches, open-collector parallel outputs",No Datasheet Available
+74597,"8-bit shift registers, input latches",Datasheets_7400/74HC_HCT597.pdf
+74598,"8-bit shift register, input latches",No Datasheet Available
+74599,"8-bit shift registers, output latches, open-collector outputs",No Datasheet Available
+74600,"dynamic memory refresh controller, transparent and burst modes, for 4K or 16K dRAM",No Datasheet Available
+74601,"dynamic memory refresh controller, transparent and burst modes, for 64K dRAM",No Datasheet Available
+74602,"dynamic memory refresh controller, cycle steal and burst modes, for 4K or 16K dRAM",No Datasheet Available
+74603,"dynamic memory refresh controller, cycle steal and burst modes, for 64K dRAM",No Datasheet Available
+74604,"octal 2-input multiplexer, latch, high-speed, three-state outputs",No Datasheet Available
+74605,"latch, high-speed, open collector outputs",No Datasheet Available
+74606,"octal 2-input multiplexer, latch, glitch-free, three-state outputs",No Datasheet Available
+74607,"octal 2-input multiplexer, latch, glitch-free, open collector outputs",No Datasheet Available
+74608,memory cycle controller,No Datasheet Available
+74610,"memory mapper, latched, three-state outputs",No Datasheet Available
+74611,"memory mapper, latched, open collector outputs",No Datasheet Available
+74612,"memory mapper, three-state outputs",No Datasheet Available
+74613,"memory mapper, open collector outputs",No Datasheet Available
+74618,"Schmitt trigger positive-nand gates, totem-pole outputs",No Datasheet Available
+74619,"Schmitt trigger inverters, totem-pole outputs",No Datasheet Available
+74620,"octal bus transceiver, inverting, three-state outputs",No Datasheet Available
+74621,"octal bus transceiver, non-inverting, open collector outputs",No Datasheet Available
+74622,"octal bus transceiver, inverting, open collector outputs",No Datasheet Available
+74623,"octal bus transceiver, non-inverting, three-state outputs",No Datasheet Available
+74624,"voltage-controlled oscillator, enable control, range control, two-phase outputs",No Datasheet Available
+74625,"dual voltage-controlled oscillator, two-phase outputs",No Datasheet Available
+74626,"dual voltage-controlled oscillator, enable control, two-phase outputs",No Datasheet Available
+74627,dual voltage-controlled oscillator,No Datasheet Available
+74628,"voltage-controlled oscillator, enable control, range control, external temperature compensation, two-phase outputs",No Datasheet Available
+74629,"dual voltage-controlled oscillator, enable control, range control",No Datasheet Available
+74630,"16-bit error detection and correction (EDAC), three-state outputs",No Datasheet Available
+74631,"16-bit error detection and correction, open collector outputs",No Datasheet Available
+74632,"32-bit parallel error detection and correction, three-state outputs, byte-write",No Datasheet Available
+74633,"32-bit parallel error detection and correction, open-collector outputs, byte-write",No Datasheet Available
+74634,"32-bit parallel error detection and correction, three-state outputs",No Datasheet Available
+74635,"32-bit parallel error detection and correction, open-collector outputs",No Datasheet Available
+74638,"octal bus transceiver, inverting three-state outputs",No Datasheet Available
+74639,"octal bus transceiver, non-inverting three-state outputs",No Datasheet Available
+74640,"octal bus transceiver, inverting three-state outputs",No Datasheet Available
+74641,"octal bus transceiver, non-inverting open collector outputs",No Datasheet Available
+74642,"octal bus transceiver, inverting open collector outputs",No Datasheet Available
+74643,"octal bus transceiver, mix of inverting and non-inverting three-state outputs",No Datasheet Available
+74644,"octal bus transceiver, mix of inverting and non-inverting open collector outputs",No Datasheet Available
+74645,octal bus transceiver,No Datasheet Available
+74646,"octal bus transceiver/latch/multiplexer, non-inverting three-state outputs",No Datasheet Available
+74647,"octal bus transceiver/latch/multiplexer, non-inverting open collector outputs",No Datasheet Available
+74648,"octal bus transceiver/latch/multiplexer, inverting three-state outputs",No Datasheet Available
+74649,"octal bus transceiver/latch/multiplexer, inverting open collector outputs",No Datasheet Available
+74651,"octal bus transceiver/register, inverting three-state outputs",No Datasheet Available
+74652,"octal bus transceiver/register, non-inverting three-state outputs",No Datasheet Available
+74653,"octal bus transceiver/register, inverting three-state and open collector outputs",No Datasheet Available
+74654,"octal bus transceiver/register, non-inverting three-state and open collector outputs",No Datasheet Available
+74658,"octal bus transceiver, parity, inverting",No Datasheet Available
+74659,"octal bus transceiver, parity, non-inverting",No Datasheet Available
+74664,"octal bus transceiver, parity, inverting",No Datasheet Available
+74665,"octal bus transceiver, parity, non-inverting",No Datasheet Available
+74668,synchronous 4-bit decade up/down counter,No Datasheet Available
+74669,synchronous 4-bit binary up/down counter,No Datasheet Available
+74670,"4 by 4 register file, three-state outputs",No Datasheet Available
+74671,"4-bit bidirectional shift register/latch/multiplexer, three-state outputs",No Datasheet Available
+74672,"4-bit bidirectional shift register/latch/multiplexer, three-state outputs",No Datasheet Available
+74673,"16-bit serial-in serial/parallel-out shift register, output storage registers, three-state outputs",No Datasheet Available
+74674,"16-bit parallel-in serial-out shift register, three-state outputs",No Datasheet Available
+74676,16-bit serial/parallel-in serial-out shift register,No Datasheet Available
+74677,"16-bit address comparator, enable",No Datasheet Available
+74678,"16-bit address comparator, latch",No Datasheet Available
+74679,"12-bit address comparator, latch",No Datasheet Available
+74680,"12-bit address comparator, enable",No Datasheet Available
+74681,4-bit parallel binary accumulator,No Datasheet Available
+74682,8-bit magnitude comparator,No Datasheet Available
+74683,"8-bit magnitude comparator, open collector outputs",No Datasheet Available
+74684,8-bit magnitude comparator,No Datasheet Available
+74685,"8-bit magnitude comparator, open collector outputs",No Datasheet Available
+74686,"8-bit magnitude comparator, enable",No Datasheet Available
+74687,"8-bit magnitude comparator, enable",No Datasheet Available
+74688,8-bit equality comparator,Datasheets_7400/sn74hc688.pdf
+74689,"8-bit magnitude comparator, open collector outputs",No Datasheet Available
+74690,"4-bit decimal counter/latch/multiplexer, asynchronous clear, three-state outputs",No Datasheet Available
+74691,"4-bit binary counter/latch/multiplexer, asynchronous clear, three-state outputs",No Datasheet Available
+74692,"4-bit decimal counter/latch/multiplexer, synchronous clear, three-state outputs",No Datasheet Available
+74693,"4-bit binary counter/latch/multiplexer, synchronous clear, three-state outputs",No Datasheet Available
+74694,"4-bit decimal counter/latch/multiplexer, synchronous and asynchronous clears, three-state outputs",No Datasheet Available
+74695,"4-bit binary counter/latch/multiplexer, synchronous and asynchronous clears, three-state outputs",No Datasheet Available
+74696,"4-bit decimal counter/register/multiplexer, asynchronous clear, three-state outputs",No Datasheet Available
+74697,"4-bit binary counter/register/multiplexer, asynchronous clear, three-state outputs",No Datasheet Available
+74698,"4-bit decimal counter/register/multiplexer, synchronous clear, three-state outputs",No Datasheet Available
+74699,"4-bit binary counter/register/multiplexer, synchronous clear, three-state outputs",No Datasheet Available
+74716,programmable decade counter,No Datasheet Available
+74718,programmable binary counter,No Datasheet Available
+74724,voltage-controlled multivibrator,No Datasheet Available
+74740,"octal buffer/Line driver, inverting, three-state outputs",No Datasheet Available
+74741,"octal buffer/line driver, non-inverting, three-state outputs, mixed enable polarity",No Datasheet Available
+74744,"octal buffer/line driver, non-inverting, three-state outputs",No Datasheet Available
+74748,8 to 3-line priority encoder,No Datasheet Available
+74760,"octal buffer/line driver, non-inverting, open-collector outputs",No Datasheet Available
+74762,"octal buffer/line driver, inverting and non-inverting open-collector outputs",No Datasheet Available
+74763,"octal buffer/line driver, inverting open-collector outputs, complementary enable inputs",No Datasheet Available
+74779,8-bit bidirectional binary counter (three-state),No Datasheet Available
+74783,synchronous address multiplexer,No Datasheet Available
+74790,error detection and correction (EDAC),No Datasheet Available
+74794,"8-bit register, readback",No Datasheet Available
+74795,"octal buffer, three-state outputs",No Datasheet Available
+74796,"octal buffer, three-state outputs",No Datasheet Available
+74797,"octal buffer, three-state outputs",No Datasheet Available
+74798,"octal buffer, three-state outputs",No Datasheet Available
+74804,hex 2-input NAND drivers,No Datasheet Available
+74805,hex 2-input NOR drivers,No Datasheet Available
+74808,hex 2-input AND drivers,No Datasheet Available
+74810,quad 2-input XNOR gates,No Datasheet Available
+74822,"10-bit bus interface flip-flop, three-state outputs",No Datasheet Available
+74823,"9-bit D-type flip-flops, three-state outputs",No Datasheet Available
+74824,"9-bit D-type flip-flops, three-state outputs, inverting inputs",No Datasheet Available
+74825,8-bit D-type flip-flop,No Datasheet Available
+74832,hex 2-input OR drivers,No Datasheet Available
+74841,"10-bit D-type flip-flop, three-state outputs",No Datasheet Available
+74842,"10-bit D-type flip-flop, three-state outputs, inverting inputs",No Datasheet Available
+74848,"8 to 3-line priority encode, three-state outputs",No Datasheet Available
+74857,"hex 2-line to 1-line multiplexer, three-state outputs",No Datasheet Available
+74867,"synchronous 8-bit up/down counter, asynchronous clear",No Datasheet Available
+74869,"synchronous 8-bit up/down counter, synchronous clear",No Datasheet Available
+74870,dual 16x4 register files,No Datasheet Available
+74871,dual 16x4 register files,No Datasheet Available
+74873,octal transparent latch,No Datasheet Available
+74874,octal D-type flip-flop,No Datasheet Available
+74876,"octal D-type flip-flop, inverting outputs",No Datasheet Available
+74878,"dual 4-bit D-type flip-flop, synchronous clear, non-inverting three-state outputs",No Datasheet Available
+74879,"dual 4-bit D-type flip-flop, synchronous clear, inverting three-state outputs",No Datasheet Available
+74880,"octal transparent latch, inverting outputs",No Datasheet Available
+74881,arithmetic logic unit,No Datasheet Available
+74882,32-bit lookahead carry generator,No Datasheet Available
+74885,8-bit magnitude comparator,No Datasheet Available
+74888,8-bit slice processor,No Datasheet Available
+74901,hex inverting TTL buffer,No Datasheet Available
+74902,hex non-inverting TTL buffer,No Datasheet Available
+74903,hex inverting CMOS buffer,No Datasheet Available
+74904,hex non-inverting CMOS buffer,No Datasheet Available
+74905,12-bit successive approximation register,No Datasheet Available
+74906,hex open drain n-channel buffers,No Datasheet Available
+74907,hex open drain p-channel buffers,No Datasheet Available
+74908,dual CMOS 30 V relay driver,No Datasheet Available
+74909,quad voltage comparator,No Datasheet Available
+74910,256x1 CMOS static RAM,No Datasheet Available
+74911,4-digit expandable display controller,No Datasheet Available
+74912,6-digit BCD display controller and driver,No Datasheet Available
+74914,"hex Schmitt trigger, extended input voltage",No Datasheet Available
+74915,7-segment to BCD decoder,No Datasheet Available
+74917,6-digit hex display controller and driver,No Datasheet Available
+74918,dual CMOS 30 V relay driver,No Datasheet Available
+74920,256x4 CMOS static RAM,No Datasheet Available
+74921,256x4 CMOS static RAM,No Datasheet Available
+74922,16-key encoder,No Datasheet Available
+74923,20-key encoder,No Datasheet Available
+74925,4-digit counter/display driver,No Datasheet Available
+74926,"4-digit decade counter/display driver, carry out and latch (up to 9999)",No Datasheet Available
+74927,"4-digit timer counter/display driver (up to 9599, intended as time elapsed)",No Datasheet Available
+74928,4-digit counter/display driver (up to 1999),No Datasheet Available
+74929,1024x1 CMOS static RAM,No Datasheet Available
+74930,1024x1 CMOS static RAM,No Datasheet Available
+74932,phase comparator,No Datasheet Available
+74933,address bus comparator,No Datasheet Available
+74934,"=ADC0829 ADC, see corresponding NSC datasheet",No Datasheet Available
+74935,3.5-digit digital voltmeter (DVM) support chip for multiplexed 7-segment displays,No Datasheet Available
+74936,3.75-digit digital voltmeter (DVM) support chip for multiplexed 7-segment displays,No Datasheet Available
+74937,"=ADC3511 ADC, see corresponding NSC datasheet",No Datasheet Available
+74938,"=ADC3711 ADC, see corresponding NSC datasheet",No Datasheet Available
+74941,octal bus/line drivers/line receivers,No Datasheet Available
+74942,300 baud modem,No Datasheet Available
+74945,"4-digit up/down counter, decoder and driver",No Datasheet Available
+74947,"4-digit up/down counter, decoder and driver",No Datasheet Available
+74948,"=ADC0816 ADC, see corresponding NSC datasheet",No Datasheet Available
+74949,"=ADC0808 ADC, see corresponding NSC datasheet",No Datasheet Available
+74962,Dual Rank 8-Bit TRI-STATE Shift Register,No Datasheet Available
+74992,9-bit D-type transparent read-back latch,No Datasheet Available
+74996,8-bit D-type edge-triggered read-back latch,No Datasheet Available
+741004,hex inverting buffer,No Datasheet Available
+741005,"hex inverting buffer, open-collector output",No Datasheet Available
+741008,quad 2-input AND buffer,No Datasheet Available
+741010,triple 3-input NAND buffer,No Datasheet Available
+741034,hex non-inverting buffer,No Datasheet Available
+741035,"hex non-inverting buffer, open-collector outputs",No Datasheet Available
+741245,octal bus transceiver,No Datasheet Available
+742960,error detection and correction (EDAC),No Datasheet Available
+742961,"edac bus buffer, inverting",No Datasheet Available
+742962,"edac bus buffer, non-inverting",No Datasheet Available
+742968,dynamic memory controller,No Datasheet Available
+742969,"memory timing controller for use, EDAC",No Datasheet Available
+742970,memory timing controller for use without EDAC,No Datasheet Available
+743037,quad 2-input NAND 30Ω driver,No Datasheet Available
+743040,dual 4-input NAND 30Ω line driver,No Datasheet Available
+744002,dual 4-input NOR gate,Datasheets_7400/74HC_HCT4002.pdf
+744015,dual 4-bit shift registers,Datasheets_7400/cd74hc4015.pdf
+744016,quad bilateral switch,Datasheets_7400/74HC4016.pdf
+744017,5-stage ÷10 Johnson counter,Datasheets_7400/74HC_HCT4017.pdf
+744020,14-stage binary counter,Datasheets_7400/74HC_HCT4020.pdf
+744024,7-stage ripple carry binary counter,Datasheets_7400/74HC4024.pdf
+744028,BCD to decimal decoder,No Datasheet Available
+744040,12-stage binary ripple counter,Datasheets_7400/74HC_HCT4040.pdf
+744046,phase-locked loop and voltage-controlled oscillator,No Datasheet Available
+744049,hex inverting buffer,Datasheets_7400/74HC4049.pdf
+744050,hex buffer/converter (non-inverting),Datasheets_7400/74HC4050.pdf
+744051,high-speed CMOS 8-channel analog multiplexer/demultiplexer,Datasheets_7400/74HC_HCT4051.pdf
+744052,dual 4-channel analog multiplexer/demultiplexers,Datasheets_7400/74HC_HCT4052.pdf
+744053,triple 2-channel analog multiplexer/demultiplexers,Datasheets_7400/74HC_HCT4053.pdf
+744059,programmable divide-by-N counter,Datasheets_7400/cd74hc4059.pdf
+744060,14-stage binary ripple counter with oscillator,Datasheets_7400/74HC_HCT4060.pdf
+744066,quad single-pole single-throw analog switch,Datasheets_7400/74HC_HCT4066.pdf
+744067,16-channel analog multiplexer/demultiplexer,Datasheets_7400/74HC_HCT4067.pdf
+744075,triple 3-input OR gate,Datasheets_7400/74HC_HCT4075.pdf
+744078,8-input OR/NOR gate,No Datasheet Available
+744094,8-bit three-state shift register/latch,Datasheets_7400/74HC_HCT4094.pdf
+744316,quad analog switch,Datasheets_7400/74HC_HCT4316.pdf
+744351,8-channel analog multiplexer/demultiplexer with latch,No Datasheet Available
+744352,dual 4-channel analog multiplexer/demultiplexer with latch,Datasheets_7400/cd74hc4351.pdf
+744511,BCD to 7-segment decoder,Datasheets_7400/74HC_HCT4511.pdf
+744514,"4-to-16 line decoder/demultiplexer, input latches",No Datasheet Available
+744515,4-to-16 line decoder/demultiplexer with input latches; inverting,Datasheets_7400/cd74hc4514.pdf
+744516,binary up/down counter,No Datasheet Available
+744518,dual 4-bit synchronous decade counter,No Datasheet Available
+744520,dual 4-bit synchronous binary counter,No Datasheet Available
+744538,dual retriggerable precision monostable multivibrator,Datasheets_7400/74HC4538.pdf
+744543,BCD to 7-segment latch/decoder/driver for LCDs,No Datasheet Available
+745555,programmable delay timer with oscillator,No Datasheet Available
+746300,timer,No Datasheet Available
+746301,"dynamic memory refresh controller, transparent and burst modes, for 16K, 64K, 256K, and 1M dRAM",No Datasheet Available
+746302,"dynamic memory refresh controller, transparent and burst modes, for 16K, 64K, 256K, and 1M dRAM",No Datasheet Available
+747007,hex buffer,No Datasheet Available
+747014,hex Schmitt trigger non-inverting buffer,Datasheets_7400/74HC7014.pdf
+747046,phase-locked loop with voltage-controlled oscillator and lock detector,No Datasheet Available
+747266,quad 2-input XNOR gate,No Datasheet Available
+747540,octal Schmitt trigger buffer/line driver; 3-state; inverting,No Datasheet Available
+747541,octal Schmitt trigger buffer/line driver; 3-state,Datasheets_7400/74HC_HCT7541.pdf
+747597,8-bit shift register with input latches,No Datasheet Available
+749015,nine wide Schmitt trigger buffer/line driver,No Datasheet Available
+749115,"octal buffer/driver, three-state outputs",No Datasheet Available
+7411244,"octal buffer/driver, three-state outputs",No Datasheet Available
+7429841,"10-bit bus-interface D-type latch, three-state outputs",No Datasheet Available
+7440103,presettable 8-bit synchronous down counter,Datasheets_7400/74HC40103.pdf
+7440104,4-bit Bidirectional Universal Shift Register; 3-state,No Datasheet Available
+7440105,4-bit by 16-word FIFO register,Datasheets_7400/74HC_HCT40105.pdf

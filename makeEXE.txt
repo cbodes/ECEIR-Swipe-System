@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed -p C:\Users\cam\PycharmProjects\untitled\venv2\Lib\site-packages SwipeMain.py
