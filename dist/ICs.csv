@@ -1,0 +1,179 @@
+4000[9],Logic Gates,2,Dual 3-input NOR gate + 1 NOT gate,DIP14 SO14,[1],CD4000B,HEF4000B,MC14000B (Archive),HCF4000B (Archive),-,-
+4001[10],Logic Gates,4,Quad 2-input NOR gate,DIP14 SO14 TSSOP14,[2],CD4001B,HEF4001B,MC14001B,HCF4001B (Archive),CD4001B,TC4001B
+4002[11],Logic Gates,2,Dual 4-input NOR gate,DIP14 SO14,[3],CD4002B,HEF4002B,MC14002B (Archive),HCF4002B (Archive),CD4002B,-
+4006[12],Shift Registers,1,18-stage shift register,DIP14,[4],-,HEF4006B (Archive),MC14006B (Archive),HCF4006B (Archive),CD4006B,TC4006BP (Archive)
+4007[13],-,2,Dual complementary transistor pair + 1 NOT gate,DIP14 SO14 TSSOP14,[5],CD4007UB (Archive),HEF4007UB,MC14007UB,HCF4007UB (Archive),CD4007UB,TC4007UB (Archive)
+4008[14],Adders,1,4-bit binary full adder,DIP16 SO16,[6],CD4008B,HEF4008B (Archive),MC14008B,HCF4008B (Archive),-,-
+4009[15],Buffers,6,Hex inverting buffer (replaced by 4049),DIP16 SO16 TSSOP16,[7],see CD4049UB,-,MC14009 (Archive),HCF4009UB (Archive),CD4009UB,-
+4010[16],Buffers,6,Hex non-inverting buffer (replaced by 4050),DIP16 SO16 TSSOP16,[8],see CD4050B,-,MC14010 (Archive),HCF4010,CD4010B,-
+4011[17],Logic Gates,4,Quad 2-input NAND gate,DIP14 SO14 TSSOP14,[9],CD4011B,HEF4011B,MC14011B,HCF4011B,CD4011B,TC4011B
+4012[18],Logic Gates,2,Dual 4-input NAND gate,DIP14 SO14 TSSOP14,[10],CD4012B,HEF4012B (Archive),MC14012B,HCF4012B (Archive),CD4012B,-
+4013[19],Flip-Flops,2,Dual D-type flip-flop,DIP14 SO14,[11],CD4013B,HEF4013B,MC14013B,HCF4013B,CD4013B,TC4013B
+4014[20],Shift Registers,1,8-stage shift register,DIP16 SO16 TSSOP16,[12],-,HEF4014B,MC14014B,HCF4014B (Archive),CD4014B,-
+4015[21],Shift Registers,2,Dual 4-stage shift register,DIP16 SO16 TSSOP16,[13],CD4015B,HEF4015B,MC14015B,HCF4015B (Archive),CD4015B,TC4015B
+4016[22],Analog Switches,4,Quad bilateral switch,DIP14 SO14 TSSOP14,[14],see CD4066B,HEF4016B,MC14016B,HCF4016B,CD4016B,-
+4017[23],Counters,1,Decade counter with 10 decoded outputs (5-stage Johnson counter),DIP16 SO16 TSSOP16,[15],CD4017B,HEF4017B,MC14017B,HCF4017B,CD4017B,TC4017B
+4018[24],Counters,1,Presettable divide-by-N counter,DIP16 SO16 TSSOP16,[16],-,HEF4018B (Archive),MC14018B,HCF4018B (Archive),CD4018B,-
+4019[25],Logic Gates,4,Quad AND/OR select gate,DIP16 SO16 TSSOP16,[17],-,-,-,HCF4019B (Archive),CD4019B,-
+4020[26],Counters,1,14-stage binary ripple counter,DIP16 SO16 TSSOP16,[18],CD4020B,HEF4020B,MC14020B,HCF4020B (Archive),CD4020B,TC4020B
+4021[27],Shift Registers,1,8-stage shift register,DIP16 SO16 TSSOP16,[19],CD4021B,HEF4021B,MC14021B,HCF4021B (Archive),CD4021B,TC4021B
+4022[28],Counters,1,Octal counter with 8 decoded outputs (4-stage Johnson counter),DIP16 SO16 TSSOP16,[20],CD4022B,HEF4022B (Archive),MC14022,HCF4022B (Archive),CD4022B,-
+4023[29],Logic Gates,3,Triple 3-input NAND gate,DIP14 SO14 TSSOP14,[21],CD4023B,HEF4023B,MC14023B,HCF4023B (Archive),CD4023B,-
+4024[30],Counters,1,7-stage binary ripple counter,DIP14 SO14 TSSOP14,[22],CD4024B,HEF4024B,MC14024B,HCF4024B (Archive),CD4024B,TC4024B
+4025,Logic Gates,3,Triple 3-input NOR gate,DIP14 SO14 TSSOP14,[23],CD4025B,HEF4025B,MC14025B,HCF4025B (Archive),CD4025B,-
+4026[31],7-Segment Decoders,1,Decade counter with decoded 7-segment display outputs and display enable,DIP16 SO16 TSSOP16,[24],-,-,-,HCF4026B (Archive),CD4026B,-
+4027[32],Flip-Flops,2,Dual J-K master-slave flip-flop,DIP16 SO16 TSSOP16,[25],CD4027B,HEF4027B,MC14027B,HCF4027B (Archive),CD4027B,TC4027B
+4028,Multiplexers,1,BCD to decimal (1-of-10) decoder,DIP16 SO16 TSSOP16,[26],CD4028B,HEF4028B,MC14028B,HCF4028B (Archive),CD4028B,TC4028B
+4029,Counters,1,"Presettable up/down counter, binary or BCD-decade",DIP16 SO16 TSSOP16,[27],CD4029B,HEF4029B (Archive),MC14029B,HCF4029B (Archive),CD4029B,-
+4030[33],Logic Gates,4,Quad XOR gate (replaced by 4070),DIP14 SO14 TSSOP14,[28],CD4030B,HEF4030B,-,HCF4030B (Archive),CD4030B,TC4030B
+4031[34],Shift Registers,1,64-stage shift register,DIP16 TSSOP16,[29],CD4031B (Archive),HEF4031B (Archive),-,HCF4031B (Archive),CD4031B,-
+4032,Adders,3,Triple serial adder,DIP16 PLCC20,[30],-,-,MC14032B (Archive),HCF4032B (Archive),-,-
+4033[35],7-Segment Decoders,1,Decade counter with decoded 7-segment display outputs and ripple blanking,DIP16 SO16 TSSOP16,[31],CD4033B (Archive),-,-,HCF4033B (Archive),CD4033B,-
+4034[36],Registers,1,8-stage bidirectional parallel/serial input/output register,DIP24 SO24,[32],CD4034B (Archive),-,MC14034B (Archive),HCF4034B (Archive),CD4034B,-
+4035[37],Shift Registers,1,4-stage parallel-in/parallel-out shift register,DIP16 SO16 TSSOP16,[33],-,HEF4035B (Archive),MC14035B (Archive),HCF4035B (Archive),CD4035B,-
+4038,Adders,3,Triple serial adder,DIP16 PLCC20,[34],-,-,-,HCF4038B (Archive),-,-
+4040[38],Counters,1,12-stage binary ripple counter,DIP16 SO16 TSSOP16,[35],CD4040B,HEF4040B,MC14040B,HCF4040B (Archive),CD4040B,TC4040B
+4041[39],Buffers,4,Quad true/complement buffer,DIP14 SO14 TSSOP14,[36],CD4041B,HEF4041B (Archive),-,HCF4041B (Archive),CD4041UB,-
+4042,Latches,4,Quad D-type latch,DIP16 SO16 TSSOP16,[37],CD4042B,HEF4042B (Archive),MC14042B,HCF4042B (Archive),CD4042B,-
+4043[40],Latches,4,Quad NOR R/S latch with tri-state outputs,DIP16 SO16 TSSOP16,[38],CD4043B,HEF4043B,MC14043B,HCF4043B (Archive),CD4043B,-
+4044,Latches,4,Quad NAND R/S latch with tri-state outputs,DIP16 SO16 TSSOP16,[39],CD4044B (Archive),HEF4044B,MC14043B,HCF4044B (Archive),CD4044B,TC4044B
+4045[41],Counters,1,21-stage counter,DIP16 SO16 TSSOP16,[40],-,-,-,-,CD4045B,-
+4046[42],PLL,1,Phase-locked loop with VCO,DIP16 SO16 TSSOP16,[41],CD4046B,HEF4046B,MC14046B,HCF4046B (Archive),CD4046B,-
+4047[43],Multivibrators,1,Monostable/astable multivibrator,DIP14 SO14 TSSOP14,[42],CD4047B,HEF4047B,-,HCF4047B (Archive),CD4047B,TC4047B (Archive)
+4048[44],Logic Gates,1,Multifunctional expandable 8-input gate with tri-state output,DIP16 SO16 TSSOP16,[43],CD4048B (Archive),-,-,HCF4048B (Archive),CD4048B,-
+4049[45],Buffers,6,Hex buffer/converter (inverting),DIP16 SO16 TSSOP16,[44],CD4049UB,HEF4049B,MC14049B,HCF4049B (Archive),CD4049UB,TC4049B
+4050[46],Buffers,6,Hex buffer/converter (non-inverting),DIP16 SO16 TSSOP16,[45],CD4050B,HEF4050B,MC14050B,HCF4050B (Archive),CD4050B,TC4050B
+4051[47],Analog Switches,1,8-channel analog multiplexer/demultiplexer,DIP16 SO16 TSSOP16,[46],CD4051B,HEF4051B,MC14051B,HCF4051B (Archive),CD4051B,TC4051B
+4052[48],Analog Switches,2,Dual 4-channel analog multiplexer/demultiplexer,DIP16 SO16 TSSOP16,[47],CD4052B,HEF4052B,MC14052B,HCF4052B (Archive),CD4052B,TC4052B
+4053[49],Analog Switches,3,Triple 2-channel analog multiplexer/demultiplexer,DIP16 SO16 TSSOP16,[48],CD4053B,HEF4053B,MC14053B,HCF4053B (Archive),CD4053B,TC4053B
+4054[50],LCD Drivers,1,BCD to 7-segment decoder/LCD driver,DIP16 SO16 TSSOP16,[49],-,-,-,HCF4054B (Archive),CD4054B,-
+4055[51],LCD Drivers,1,"BCD to 7-segment decoder/LCD driver with ""display-frequency"" output",DIP16 SO16 TSSOP16,[50],-,-,-,HCF4055B (Archive),CD4055B,-
+4056[52],LCD Drivers,1,BCD to 7-segment decoder/LCD driver with strobed-latch function,DIP16 SO16 TSSOP16,[51],-,-,-,HCF4056B (Archive),CD4056B,-
+4059[53],Counters,1,Programmable divide-by-N counter,DIP24 SO24,[52],-,HEF4059B,-,-,CD4059A,-
+4060[54],Counters,1,14-stage binary ripple counter and oscillator,DIP16 SO16 TSSOP16,[53],CD4060B,HEF4060B,MC14060B,HCF4060,CD4060B,-
+4062,,?,Logic dual 3 majority gate,,?,-,-,-,-,-,-
+4063[55],Comparators,1,4-bit digital comparator,DIP16 SO16,[54],CD4063BMS,-,-,HCF4063B (Archive),CD4063B,
+4066[56],Analog Switches,4,"Quad analog switch (low ""ON"" resistance)",DIP14 SO14 TSSOP14,[55],CD4066B,HEF4066B,MC14066B,HCF4066B (Archive),CD4066B,TC4066B
+4067[57],Analog Switches,1,16-channel analog multiplexer/demultiplexer (1-of-16 switch),DIP24 SO24 TSSOP24,[56],CD4067B (Archive),HEF4067B,MC14067B,HCF4067B (Archive),CD4067B,-
+4068[58],Logic Gates,1,8-input NAND gate,DIP14 SO14 TSSOP14,[57],CD4068B (Archive),HEF4068B,MC14068B (Archive),HCF4068B (Archive),CD4068B,-
+4069[59],Logic Gates,6,Hex inverter,DIP14 SO14 TSSOP14,[58],CD4069UBMS,HEF4069UB,MC14069UB,HCF4069UB (Archive),CD4069UB,TC4069UB
+4070[60],Logic Gates,4,Quad 2-input XOR gate,DIP14 SO14 TSSOP14,[59],CD4070BMS,HEF4070B,MC14070B,HCF4070B (Archive),CD4070B,-
+4071[61],Logic Gates,4,Quad 2-input OR gate,DIP14 SO14 TSSOP14,[60],CD4071BMS,HEF4071B,MC14071B,HCF4071B (Archive),CD4071B,TC4071B
+4072[62],Logic Gates,2,Dual 4-input OR gate,DIP14 SO14 TSSOP14,[61],CD4072BMS,HEF4072B,MC14072B (Archive),HCF4072B (Archive),CD4072B,-
+4073[63],Logic Gates,3,Triple 3-input AND gate,DIP14 SO14 TSSOP14,[62],CD4073BMS,HEF4073B,MC14073B,HCF4073B (Archive),CD4073B,-
+4075[64],Logic Gates,3,Triple 3-input OR gate,DIP14 SO14 TSSOP14,[63],CD4075BMS,HEF4075B,MC14075B (Archive),HCF4075B (Archive),CD4075B,-
+4076,Registers,4,Quad D-type register with tri-state outputs,DIP16 SO16 TSSOP16,[64],CD4076BMS,HEF4076B (Archive),MC14076B,HCF4076 (Archive),CD4076B,-
+4077[65],Logic Gates,4,Quad 2-input XNOR gate,DIP14 SO14 TSSOP14,[65],CD4076BMS,HEF4077B,MC14077B,HCF4077B (Archive),CD4077B,-
+4078[66],Logic Gates,1,8-input NOR/OR gate,DIP14 SO14 TSSOP14,[66],CD4078B (Archive),HEF4078B (Archive),MC14078B (Archive),HCF4078B (Archive),CD4078B,-
+4081[67],Logic Gates,4,Quad 2-input AND gate,DIP14 SO14 TSSOP14,[67],CD4081BMS,HEF4081B,MC14081B,HCF4081B (Archive),CD4081B,TC4081B
+4082[68],Logic Gates,2,Dual 4-input AND gate,DIP14 SO14 TSSOP14,[68],CD4082BMS,HEF4082B,MC14082B,HCF4082B (Archive),CD4082B,-
+4085[69],Logic Gates,2,"Dual 2-wide, 2-input AND/OR invert (AOI)",DIP14 SO14 TSSOP14,[69],CD4085B (Archive),HEF4085B (Archive),-,HCF4085B (Archive),CD4085B,-
+4086[70],Logic Gates,?,"Expandable 4-wide, 2-input AND/OR invert (AOI)",DIP14 SO14,[70],-,HEF4086B (Archive),-,HCF4086B (Archive),CD4086B,-
+4089[71],Rate Multipliers,1,Binary rate multiplier,DIP16 SO16 TSSOP16,[71],CD4089B (Archive),-,-,HCF4089B (Archive),CD4089B,-
+4093[72],Logic Gates,4,Quad 2-input Schmitt trigger NAND gate,DIP14 SO14 TSSOP14,[72],CD4093BMS,HEF4093B,MC14093B,HCF4093B (Archive),CD4093B,TC4093B
+4094[73],Shift Registers,1,8-stage shift-and-store bus,DIP16 SO16 TSSOP16,[73],CD4094BMS,HEF4094B,MC14094B,HCF4094B (Archive),CD4094B,TC4094B
+4095,Flip-Flops,1,Gated J-K flip-flop (non-inverting),DIP14 SO14 PLCC20,[74],CD4095BMS (Archive),-,-,HCF4095B (Archive),-,-
+4096,Flip-Flops,1,Gated J-K flip-flop (inverting and non-inverting),DIP14 SO14 PLCC20,[75],CD4096BMS (Archive),-,-,HCF4096B (Archive),-,-
+4097[74],Analog Switches,1,Differential 8-channel analog multiplexer/demultiplexer,DIP24 SO24 TSSOP24,[76],CD4097B (Archive),-,MC14097B (Archive),HCF4097B (Archive),CD4097B,-
+4098[75],Multivibrators,2,Dual one-shot monostable,DIP16 SO16 TSSOP16,[77],CD4098BMS,-,-,HCF4098B (Archive),CD4098B,-
+4099,Latches,1,8-bit addressable latch,DIP16 SO16 TSSOP16,[78],CD4099BMS,-,MC14099B,HCF4099B (Archive),CD4099B,-
+4104[76],Translators,4,Quad low-to-high voltage translator with tri-state outputs,SO16,[79],-,HEF4104B,-,-,-,-
+4106,Logic Gates,6,Hex Schmitt trigger,SO14 TSSOP14,[80],-,HEF40106B,MC14106B,-,-,-
+4160,Counters,1,Decade counter with asynchronous clear,,,-,-,-,-,-,
+4161,Counters,1,4-bit binary counter with asynchronous clear,,,-,-,-,-,-,
+4162,Counters,1,Decade counter with synchronous clear,,,-,-,-,-,-,
+4163,Counters,1,4-bit binary counter with synchronous clear,,,-,-,-,-,-,
+4174,Flip-Flops,6,Hex D-type Flip-Flop,DIP16 SO16,[81],-,-,MC14174B,-,-,-
+4175,Flip-Flops,4,Quad D-type flip-flop,SO16,[82],-,-,MC14175B,-,-,-
+4192,Counters,1,Presettable up-down counter,,,-,-,-,-,-,-
+4490,,6,Hex contact bounce eliminator,DIP16 SO16,[83],-,-,MC14490,-,-,-
+4500,,1,Industrial control unit,,,-,-,-,-,-,-
+4502[77],,6,Hex inverting buffer (tri-state),DIP16 SO16 TSSOP16,[84],CD4502B (Archive),-,-,HCF4502B (Archive),CD4502B,-
+4503,,6,Hex non-inverting buffer with tri-state outputs,DIP16 SO16 TSSOP16,[85],CD4503BMS,-,MC14503B,HCF4503B (Archive),CD4503B,TC4503B (Archive)
+4504,Translators,6,Hex voltage level shifter for TTL-to-CMOS or CMOS-to-CMOS operation,DIP16 SO16 TSSOP16,[86],CD4504BMS,-,MC14504B,-,CD4504B,-
+4505,,1,"64-bit, 1-bit per word random access memory (RAM)",DIP14,[],-,HEF4505B (Archive),-,-,-,-
+4508[78],Latches,2,Dual 4-bit latch with tri-state outputs,DIP24 SO24 TSSOP24,[87],CD4508B (Archive),HEF4508B (Archive),MC14508B (Archive),-,CD4508B,-
+4510[79],Counters,1,Presettable 4-bit BCD up/down counter,DIP16 SO16 TSSOP16,[88],CD4510B (Archive),HEF4510B (Archive),-,HCF4510B (Archive),CD4510B,-
+4511[80],7-Segment Decoders,1,BCD to 7-segment latch/decoder/driver,DIP16 SO16,[89],CD4511BMS (Archive),HEF4511B,MC14511B,HCF4511B (Archive),CD4511B,TC4511B
+4512,Multiplexers,1,8-input multiplexer (data selector) with tri-state output,DIP16 SO16 TSSOP16,[90],CD4512BMS,HEF4512B (Archive),MC14512B,HCF4512B (Archive),CD4512B,TC4512B (Archive)
+4513,7-Segment Decoders,1,BCD to 7-segment latch/decoder/driver (4511 plus ripple blanking),DIP18,[],-,-,MC14513B (Archive),-,-,-
+4514,Multiplexers,1,1-of-16 decoder/demultiplexer active HIGH output,DIP24 SO24,[91],CD4514BMS,HEF4514B,MC14514B,HCF4514B (Archive),CD4514B,TC4514B (Archive)
+4515,Multiplexers,1,1-of-16 decoder/demultiplexer active LOW output,DIP24 SO24,[92],CD4515BMS,HEF4515B,MC14515B,HCF4515B (Archive),CD4515B,TC4515B (Archive)
+4516,Counters,1,Presettable 4-bit binary up/down counter,DIP16 SO16 TSSOP16,[],CD4516B (Archive),HEF4516B,MC14516B,HCF4516B (Archive),CD4516B,-
+4517,Shift Registers,2,Dual 64-stage shift register,DIP16,[],CD4517BMS (Archive),HEF4517B,MC14517B,HCF4517B (Archive),CD4517B,-
+4518[81],Counters,2,Dual BCD up counter,DIP16 SO16 TSSOP16,[93],CD4518BMS,HEF4518B,MC14518B,HCF4518B (Archive),CD4518B,-
+4519,,4,Quad 2-input multiplexer (data selector),DIP16 SO16,[94],-,HEF4519B (Archive),MC14519B (Archive),HCF4519B (Archive),-,-
+4520[82],Counters,2,Dual 4-bit binary up counter,DIP16 SO16 TSSOP16,[95],CD4520BMS,HEF4520B,MC14520B,HCF4520B (Archive),CD4520B,TC4520B
+4521[83],,1,24-stage frequency divider,,,,HEF4521B,MC14521B,,,
+4522[84],,1,Programmable BCD divide-by-N counter,,,,-,,,CD4522B,
+4526,Counters,1,Programmable 4-bit binary down counter,,,,HEF4526B,MC14526B,,,
+4527[85],,1,BCD rate multiplier,,[96],,-,,,CD4527B,
+4528[86],,2,Dual retriggerable monostable multivibrator with reset,,[97],,HEF4528B,MC14528B,,,
+4529,,2,Dual 4-channel analog data selector/multiplexer,,[98],,-,,,-,
+4530,,2,Dual 5-input majority logical gate,,,,-,,,-,
+4531,,1,12-bit parity tree,,,,-,,,-,
+4532,Multiplexers,1,8-bit priority encoder,,[99],,-,MC14532B,,,
+4536,Timers,1,Programmable timer,,[100],,-,MC14536B,,,
+4538[87],,2,Dual retriggerable precision monostable multivibrator,,[101],,HEF4538B,MC14538B,,,TC4538B
+4539,,2,Dual 4-input multiplexer,,[102],,-,,,-,
+4541[88],Timers,1,Programmable timer,,[103],,HEF4541B,MC14541B,,,
+4543[89],7-Segment Decoders,1,BCD to 7-segment latch/decoder/driver with phase input,,[104],,HEF4543B,MC14543B,,,
+4549,,1,Successive approximation registers,,,,-,MC14549B,,,
+4551,Analog Switches,4,Quad 2-channel analog multiplexer/demultiplexer,,,,-,MC14551B,,,
+4553,Counters,1,3-digit BCD counter,,[105],,-,,,-,
+4555[90],Multiplexers,2,Dual 1-of-4 decoder/demultiplexer active HIGH output,,[106],,HEF4555B,MC14555B,,,
+4556,Multiplexers,2,Dual 1-of-4 decoder/demultiplexer active LOW output,,[107],,-,MC14556B,,,
+4557[91],Shift Registers,1,1-to-64 bit variable length shift register,,[108],,HEF4557B,MC14557,,,
+4558,7-Segment Decoders,1,"BCD to 7-segment decoder (enable, RBI and provides active–high output)",,,,-,,,-,
+4559,,1,Successive approximation registers,,,,-,MC14559B,,,
+4560,Adders,1,NBCD adder,,[109],,-,,,-,
+4562,,1,128–bit static shift register,,,,,,,-,
+4566,,1,Industrial time-base generator,,[110],,-,,,-,
+4569,Counters,1,"Programmable divide-By-N, dual 4-Bit binary/BCD down counter",,,,-,MC14569B,,,
+4572,Logic Gates,6,"Hex gate: quad NOT, single NAND, single NOR",,[111],,-,MC14572UB,,,
+4583,,2,Dual Schmitt trigger,,[112],,-,,,-,
+4584[92],Logic Gates,6,Hex inverting Schmitt trigger,,[113],,-,MC14584B,,,TC4584B
+4585,,1,4-bit digital comparator,,[114],,HEF4585B,MC14585B,,CD4585B,
+4724[93],,1,8-bit addressable latch,,,,-,,,CD4724B,
+4750,,1,Frequency synthesizer,,[115],,HEF4750,,,-,
+4751,,1,Universal divider,,,,-,,,-,
+4794[94],,1,8-stage shift-and-store register LED driver,,,,HEF4794B,,,,
+4894[95],,1,12-stage shift-and-store register LED driver,,,,HEF4894B,,,,
+4938[96],,2,Dual retriggerable precision monostable multivibrator with reset,,,,HEF4938B,,,-,
+4952[97],,1,8-channel analog multiplexer/demultiplexer,,,,HEF4952B,,,-,
+40098[98],,6,Hex 3-state inverting buffer,,,,HEF40098B,,,,
+40100,Shift Registers,1,32-bit left/right shift register,,[116],CD40100B,-,,,-,
+40101,,1,9-bit parity generator/checker,,,,-,,,-,
+40102[99],Counters,1,Presettable 2-decade BCD down counter,,,,-,,,CD40102B,
+40103[100],Counters,1,Presettable 8-bit binary down counter,,,,-,,,CD40103B,
+40104,,1,4-bit bidirectional parallel-in/parallel-out shift register (tri-state),,,,-,,,-,
+40105[101],,1,4-bit x 16 word FIFO register,,[117],,-,,,CD40105B,
+40106[102],,6,Hex inverting Schmitt trigger-(NOT gates),,[118],,HEF40106B,,,,
+40107[103],,2,Dual 2-input NAND buffer/driver,,,,,,,CD40107B,
+40108,,1,4x4-bit (tri-state) synchronous triple-port register file,,,,,,,-,
+40109[104],Translators,4,Quad level shifter,,[119],,,,,CD40109B,
+40110[105],,1,Up/down counter latch decoder driver,,,,,,,CD40110B,
+40116,Translators,1,8-bit bidirectional CMOS-to-TTL level converter,,,,,,,-,
+40117[106],,1,Programmable dual 4-bit terminator,,,,,,,CD40117B,
+40147[107],,1,10-line to 4-line (BCD) priority encoder,,[120],,,,,CD40147B,
+40160[108],Counters,1,Decade counter/asynchronous clear,,,,,,,CD40160B,
+40161[109],Counters,1,Binary counter/asynchronous clear,,,,,,,CD40161B,
+40162,Counters,1,"4-bit synchronous decade counter with load, reset, and ripple carry output",,,,,,,CD40162B,
+40163,Counters,1,"4-bit synchronous binary counter with load, reset, and ripple carry output",,,,,,,CD40163B,
+40174[110],Flip-Flops,6,Hex D-type flip-flop,,,,HEF40174B,,,CD40174B,
+40175[111],Flip-Flops,4,Quad D-type flip-flop,,,,HEF40175B,,,,
+40181,,1,4-bit 16-function arithmetic logic unit,,,,-,,,-,
+40192[112],Counters,1,Presettable 4-bit up/down BCD counter,,[121],,-,,,CD40192B,
+40193[113],Counters,1,Presettable 4-bit up/down binary counter,DIP16 SO16 TSSOP16,[122],,-,,,CD40193B,
+40194[114],Shift Registers,1,4-bit bidirectional universal shift register,,[123],,-,,,CD40194B,
+40195,Shift Registers,1,4-bit universal shift register,,,,-,,,-,
+40208,,1,4 x 4-bit (tri-state) synchronous triple-port register file,,,,-,,,-,
+40240,,1,Buffer/Line driver; inverting (tri-state),,,,-,,,-,
+40244[115],,1,Buffer/line driver; non-inverting (tri-state),,,,HEF40244B,,,,
+40245,,1,Octal bus transceiver; (tri-state) outputs,,,,-,,,-,
+40257[116],,4,Quad 2-line to 1-line data selector/multiplexer (tri-state),,,,-,,,CD40257B,
+40373[117],Latches,1,Octal D-type transparent latch (tri-state),,[124],,HEF40373B,,,,
+40374,Flip-Flops,1,Octal D-type flip-flop; positive-edge trigger (tri-state),,[125],,HEF40374B,,,-,
+40501,Buffers,6,Hex buffer/converter (non-inverting) (pinout variant of 4050)[8],DIP16,,,,,,-,
+40511,7-Segment Decoders,1,"BCD 7-segment decoder, hexadecimal, active high[8]",DIP16,,,,,,-,
+45106,,1,frequency synthesizer,,,,-,,,-,
